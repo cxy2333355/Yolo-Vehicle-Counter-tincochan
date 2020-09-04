@@ -3,4 +3,6 @@
 *.mov
 *.avi
 *.weights
+*.idea
+*.vscode
 __pycache__/**
