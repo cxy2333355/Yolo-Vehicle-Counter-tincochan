@@ -243,7 +243,7 @@ while True:
 				# and and left corner of the bounding box
 				x = int(centerX - (width / 2))
 				y = int(centerY - (height / 2))
-                            
+
 				#Printing the info of the detection
 				#print('\nName:\t', LABELS[classID],
 					#'\t|\tBOX:\t', x,y)
