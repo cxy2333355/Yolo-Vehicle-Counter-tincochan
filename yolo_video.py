@@ -7,7 +7,7 @@ import cv2
 from input_retrieval import *
 
 #All these classes will be counted as 'vehicles'
-list_of_vehicles = ["bicycle","car","motorbike","bus","truck", "train"]
+list_of_vehicles = ["bicycle","car","motorbike","bus","truck", "train","fire"]
 # Setting the threshold for the number of frames to search a vehicle for
 FRAMES_BEFORE_CURRENT = 10  
 inputWidth, inputHeight = 416, 416
